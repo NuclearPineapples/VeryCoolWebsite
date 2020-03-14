@@ -8,7 +8,7 @@ CLICK HERE -------> [VERY COOL FISH](https://www.google.com/imgres?imgurl=https%
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # Hello There
@@ -28,7 +28,7 @@ This is very cool
 
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
